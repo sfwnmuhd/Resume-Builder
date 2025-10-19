@@ -31,10 +31,14 @@ Follow these steps to run the project locally:
    ```bash
    git clone <repository-url>
 2. **Navigate to the project folder**
+    ```bash
     cd resume-builder
 3. **Install dependencies**
+    ```bash
     npm install
 4. **Run the development server**
+    ```bash
     npm run dev
 5. **Open in browser**
+    ```bash
     Visit the URL shown in your terminal (usually http://localhost:5173)
